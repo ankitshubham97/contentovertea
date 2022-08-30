@@ -23,14 +23,14 @@ const App = () => {
 
   return (
     <div>
-      <Navigation />
+      {/* <Navigation /> */}
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
+      {/* <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
       <Services data={landingPageData.Services} />
       <Gallery />
-      <Testimonials data={landingPageData.Testimonials} />
-      <Footer />
+      <Testimonials data={landingPageData.Testimonials} /> */}
+      {/* <Footer /> */}
     </div>
   )
 }
